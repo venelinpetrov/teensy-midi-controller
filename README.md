@@ -10,5 +10,5 @@ Each channel has 3 encoders, 1 fader and 3 lit buttons (see the schematics folde
 
 ## Additionally
 
-- There is a separate library for working with shift registers (74HC959)
+- There is a [separate library](https://github.com/venelinpetrov/sreg) for working with shift registers (74HC595)
 - MIDI mapping (driver) for Ableton Live in a [separate repo](https://github.com/venelinpetrov/teensy-midi-controller-driver)
